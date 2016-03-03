@@ -8,9 +8,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-     
-  
-
 	<name>ocr-races</name>
 	<description>Service providing s list of OCR Races</description>
 
