@@ -10,6 +10,7 @@
 	<name>ocr-races</name>
 	<description>Service providing s list of OCR Races</description>
 
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
