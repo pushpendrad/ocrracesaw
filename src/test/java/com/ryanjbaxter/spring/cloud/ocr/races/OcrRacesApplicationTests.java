@@ -13,6 +13,4 @@ public class OcrRacesApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-	
-
 }
